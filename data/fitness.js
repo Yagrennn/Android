@@ -93,13 +93,13 @@ export default [
       },
       {
         id: "71",
-        image: "https://thumbs.gfycat.com/CompleteZigzagFossa-max-1mb.gif",
+        image: "https://fitnessprogramer.com/wp-content/uploads/2021/04/Triceps-Dips-on-Floor.gif",
         name: "TRICEP DIPS",
         sets: 10,
       },
       {
         id: "72",
-        image: "https://thumbs.gfycat.com/MisguidedAridAlaskanmalamute-max-1mb.gif",
+        image: "https://i.pinimg.com/originals/00/2f/9a/002f9a315be7db7b0f0a79ca81e1f5d5.gif",
         name: "DIAMOND_PUSHUP",
         sets: 10,
       },
@@ -151,13 +151,13 @@ export default [
       },
       {
         id: "22",
-        image: "https://thumbs.gfycat.com/TheseRigidBorer-size_restricted.gif",
+        image: "https://i.makeagif.com/media/10-02-2018/c1ILKa.gif",
         name: "SHOULDER STRETCH",
         sets: 5,
       },
       {
         id: "23",
-        image: "https://thumbs.gfycat.com/AlertAfraidAldabratortoise-max-1mb.gif",
+        image: "https://cdn.jefit.com/assets/img/exercises/gifs/625.gif",
         name: "COBRA STRETCH",
         sets: 4,
       },
@@ -196,13 +196,13 @@ export default [
       },
       {
         id: "22",
-        image: "https://thumbs.gfycat.com/TheseRigidBorer-size_restricted.gif",
+        image: "https://i.makeagif.com/media/10-02-2018/c1ILKa.gif",
         name: "SHOULDER STRETCH",
         sets: 5,
       },
       {
         id: "23",
-        image: "https://thumbs.gfycat.com/AlertAfraidAldabratortoise-max-1mb.gif",
+        image: "https://cdn.jefit.com/assets/img/exercises/gifs/625.gif",
         name: "COBRA STRETCH",
         sets: 4,
       },
@@ -241,13 +241,13 @@ export default [
       },
       {
         id: "22",
-        image: "https://thumbs.gfycat.com/TheseRigidBorer-size_restricted.gif",
+        image: "https://i.makeagif.com/media/10-02-2018/c1ILKa.gif",
         name: "SHOULDER STRETCH",
         sets: 5,
       },
       {
         id: "23",
-        image: "https://thumbs.gfycat.com/AlertAfraidAldabratortoise-max-1mb.gif",
+        image: "https://cdn.jefit.com/assets/img/exercises/gifs/625.gif",
         name: "COBRA STRETCH",
         sets: 4,
       },

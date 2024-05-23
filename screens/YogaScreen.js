@@ -19,6 +19,7 @@ const YogaScreen = () => {
             <Ionicons name="arrow-back-outline" size={24} color="white" />
           </TouchableOpacity>
           <Text style={styles.headerText}>WORKOUT PLAN</Text>
+          {/*
           <TouchableOpacity onPress={() => setShowIcon(!showIcon)}>
             {showIcon ? (
               <Ionicons name="sunny" size={24} color="white" />
@@ -26,6 +27,7 @@ const YogaScreen = () => {
               <Ionicons name="moon" size={24} color="white" />
             )}
           </TouchableOpacity>
+          */}
         </View>
         <View style={styles.statsContainer}>
           <View style={styles.shadowCards}>

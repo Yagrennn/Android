@@ -11,7 +11,7 @@ const SportsScreen = () => {
   const sportsData = [
     {
       id: '1',
-      name: 'Workout',
+      name: 'Fitness',
       image: 'https://images.pexels.com/photos/841130/pexels-photo-841130.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
     },
     {
@@ -35,7 +35,7 @@ const SportsScreen = () => {
           <TouchableOpacity
             key={item.id}
             onPress={() => {
-              if (item.name === 'Workout') {
+              if (item.name === 'Fitness') {
                 navigation.navigate('Home');
               } else {
                 navigation.navigate('Yoga');

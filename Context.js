@@ -4,9 +4,9 @@ const FitnessItems = createContext();
 
 const FitnessContext = ({ children }) => {
   const [completed, setCompleted] = useState([]);
-  const [workout, setWorkout] = useState(0);
-  const [calories, setCalories] = useState(0);
-  const [minutes, setMinutes] = useState(0);
+  const [workout, setWorkout] = useState(5);
+  const [calories, setCalories] = useState(350);
+  const [minutes, setMinutes] = useState(45);
   return (
     <FitnessItems.Provider
       value={{
